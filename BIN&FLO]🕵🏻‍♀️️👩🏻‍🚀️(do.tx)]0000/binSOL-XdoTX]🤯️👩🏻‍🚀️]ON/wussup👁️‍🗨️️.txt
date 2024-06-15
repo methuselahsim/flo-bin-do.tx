@@ -1,0 +1,134 @@
+💰️its already made us like "6+ WORKING binary tx's" (vs 0 float)
+this keeps it simple AND is our ethos. since we ruled out llama2.c
+this is fine. leGO! 🅱️{and if anything ever happened ,we know it would be ez 2 replace...}❎️(and its ez 2 mod query 2+ we HAVE to modify them
+(maybe multx) and "ollam3"HAS 2 understand the code (MULTX) , so "float" is OUT pretty much 4 good.{🎅️we wanted bin so w/e🎅️})❎️🅱️💰️
+👁️‍🗨️️(this maybe better for pushing full thru 2 our own modular corpus)
+(But keep in mind it actualy is doing what u want i guess. 
+tho beggars cant be choosers if u get "LLM" fx() , lets keep going)
+
+🧧️🧧️i know u can do even better querying if u understand wut the code is doign , this is a good place 2 "GROK" cuz we KNOW were gonna get
+a runnable BINARY TX no matter wut , yw 🧧️🧧️
+👍️if ur asking for binary mods, its basically gonna do w/e u ask
+like pimp-my-ride... so groking its gonna yeild fruit...
+🍇️JUST DO IT🍇️👍️
+❓️❓️❓️❓️❓️❓️❓️❓️❓️
+
+to really figure out if were on track or not, 
+
+we need a "minimum testable "corpus/ query" to test a binary transformer with"
+to make sure it will work with bigger corpuses . 
+along with a legend of expected results. 
+what would that discpline be called. calibrating? tuning? debugging? 
+❓️❓️❓️❓️❓️❓️❓️
+❗️ive found that using 
+Q = "0 0 0 0 | 0 0 0 1" for query ( 0 or 1 ) 
+and 
+C = "0 0 0 0  \n
+0 0 0 1"
+"(bank with zero and 1) 
+
+will yeild an interesting enough result for us 2 tweak 2 get 
+"EXACTLY WUT WE WANT, and 
+❣️
+"2.nu-bin-XdoTX]0003.c"   << is doing this just find 
+(its out is 2 much but it def switches, i like it) ❣️
+❗️
+🎁️🎁️🎁️🎁️🎁️🎁️🎁️🎁️
+code a binary decoder only multi headed attention transformer in gcc c. (NOT CPP) . make it take query and corpus as text files "query.txt" and "corpus.txt".
+
+make sure the code can correctly calculate the attention weights based on the query and corpus tokens, and then use those weights to calculate a meaningful output for each attention head.
+
+ make sure it can compile. 
+ 
+  ➕️
+ additionally if you have memory space impliment these as well
+ 
+ * Embedding layer
+* Positional encoding
+* Multi-layer perceptron (MLP) layers
+* Self-attention mechanism
+* Feed-forward network (FFN)
+
+( you shouldn't need to use float, just int. always use binary numbers and binary operations before using decimal )
+
+ 🎁️🎁️🎁️🎁️🎁️🎁️🎁️🎁️
+👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️
+code a binary decoder only multi headed attention transformer in gcc c. (NOT CPP) . make it take query and corpus as text files "query.txt" and "corpus.txt". make sure it can compile. 
+
+💰️this one will usually run , especially if u remove requirements. 
+if u start adding requirements it gets hit or miss💰️
+code a binary decoder only multi headed attention transformer in gcc c. (NOT CPP) . make it take query and corpus as text files "query.txt" and "corpus.txt".
+
+make sure the code can correctly calculate the attention weights based on the query and corpus tokens, and then use those weights to calculate a meaningful output for each attention head.
+
+ make sure it can compile. 
+ ( you shouldn't need to use float, just int. always use binary numbers and binary operations before using decimal )
+ 💰️
+ code a binary decoder only multi headed attention transformer in gcc c. (NOT CPP) . make it take query and corpus as text files "query.txt" and "corpus.txt". (corpus and query are 8bit ascii binary seperated by spaces and newlines)
+ 
+ 
+ make sure the code can correctly calculate the attention weights based on the query and corpus tokens
+  ( you shouldn't need to use float, just int. always use binary numbers and binary operations before using decimal )
+
+👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️
+code a binary decoder only multi headed attention transformer in gcc c. (NOT CPP) . make it take query and corpus as text files "query.txt" and "corpus.txt".
+
+make sure the code can correctly calculate the attention weights based on the query and corpus tokens, and then use those weights to calculate a meaningful output for each attention head.
+
+ make sure it can compile. 
+ ( you shouldn't need to use float, just int. always use binary numbers and binary operations before using decimal )
+ ➕️
+ additionally if you have memory space impliment these as well
+ 
+ * Embedding layer
+* Positional encoding
+* Multi-layer perceptron (MLP) layers
+* Self-attention mechanism
+* Feed-forward network (FFN)
+* Backwards propagation 
+ 
+ ❣️
+ Please note that this implementation is a simplified version of the actual 
+transformer architecture and does not include some important details such as:
+
+* Embedding layer
+* Positional encoding
+* Multi-layer perceptron (MLP) layers
+* Self-attention mechanism
+* Feed-forward network (FFN)
+ ❣️
+👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️👁️‍🗨️️
+🎅️🤣️all these are working, and giving meaningful outputs .vs float
+was never gonna work lmfao wow🎅️🤣️
+🤯️MIRACLE PROMPT 2 GO 2 CODEVAULT MARS ETC🐙️
+
+* last attempt (*out of like 5 , this one is ON ! MIRACLE MAYBE USE THIS ONE FIRST 
+
+>>>  code a binary decoder only multi headed attention transformer in gcc c. (NOT CPP).
+ make it take query and corpus as text files "query.txt" and "corpus.txt". (corpus and query are 8bit ascii binary seperated by spaces and newlines)
+ 
+make sure the code can correctly calculate the attention weights based on the query and corpus tokens.
+( you shouldn't need to use float, just int. always use binary numbers and binary operations before using decimal )
+🤯️
+🙏️the fact that it did ALL THOSE THINGS , BUT ESPECIALLY 
+"make sure the code can correctly calculate the attention weights based on the query and corpus tokens."
+ushould be very greatful, i hate 2 say this but u may not get 
+one again.(was rare tbh, was gonna give up!) tho u can try if u need mods , after groking 📿️this is literally the best possible combination , no floats are used or even math libary, keep pushing in this direction, if u dont understand just ask llm all about thsi peice of code =👿️" 2.nu-bin-XdoTX]0003]ON!🤯️.c " 👿️📿️🙏️
+🐙️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

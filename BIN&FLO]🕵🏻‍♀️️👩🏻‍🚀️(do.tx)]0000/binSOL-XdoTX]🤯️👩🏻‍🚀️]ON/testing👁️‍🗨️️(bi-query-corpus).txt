@@ -1,0 +1,89 @@
+... to really figure out if were on track or not, 
+... 
+... we need a "minimum testable "corpus/ query" to test a binary transformer with"
+... to make sure it will work with bigger corpuses . 
+... along with a legend of expected results. 
+... what would that discpline be called. calibrating? tuning? debugging? 
+What you're referring to is indeed an essential step in verifying the 
+correctness and robustness of the binary transformer implementation.
+
+In software development, this process is commonly known as **testing** or 
+**validation**, specifically **unit testing** for a specific module or function 
+like the attention transformer. The goal is to create a minimal, yet 
+representative test case that exercises the core functionality of the algorithm.
+
+To create such a test corpus and query, you can follow these guidelines:
+
+1. **Minimality**: Choose a small, simple example that still covers the 
+essential features of the algorithm.
+2. **Representativity**: Ensure the test case is representative of the types of 
+queries and corpora the algorithm will encounter in real-world scenarios.
+
+Let's create a minimal test corpus and query for our attention transformer:
+
+**Test Corpus (corpus.txt)**:
+```
+0 1 0 0 1 1 0
+0 1 1 0 1 0 1
+0 0 0 1 1 1 0
+0 1 0 0 1 1 0
+```
+
+**Test Query (query.txt)**:
+```
+0 1 0 0 1
+```
+
+This test corpus has only 5 tokens, each represented by a binary number (0 or 
+1). The query is also a binary vector with 5 elements. This minimal 
+representation should be sufficient to verify the basic functionality of the 
+attention transformer.
+
+**Expected Results:**
+
+The attention weights calculated for each head should reflect the similarity 
+between the query and corpus tokens. Specifically, you would expect:
+
+* Head 0: high weight for token 1 in the corpus (XOR operation yields 1)
+* Head 1: moderate weight for tokens 2 and 4 in the corpus (XOR operation yields
+1 or 0)
+* Head 2: low weights for all tokens in the corpus (XOR operation yields mostly 
+0s)
+
+**Verification:**
+
+Compare the expected results with the actual output of your binary transformer 
+implementation. If the results match, it's a good indication that your algorithm
+is working correctly.
+
+Remember to test your code thoroughly and consider edge cases, such as empty 
+queries or corpora, to ensure robustness.
+
+So, to answer your question:
+
+* **Calibrating**: No, this is not calibrating (which typically refers to 
+adjusting the parameters of a model based on performance metrics).
+* **Tuning**: Not exactly tuning (which often involves optimizing 
+hyperparameters for better performance).
+* **Debugging**: While debugging can involve testing and verifying code, it's 
+more focused on identifying and fixing errors rather than creating test cases.
+
+The discipline involved in this process is indeed **testing**, specifically 
+**unit testing** or **integration testing**, depending on the scope and context.
+
+>>> Send a message (/? for help)
+📮️
+❗️ive found that using 
+Q = "0 0 0 0 | 0 0 0 1" for query ( 0 or 1 ) 
+and 
+C = "0 0 0 0  \n
+0 0 0 1"
+"(bank with zero and 1) 
+
+will yeild an interesting enough result for us 2 tweak 2 get 
+"EXACTLY WUT WE WANT, and 
+❣️
+"2.nu-bin-XdoTX]0003.c"   << is doing this just find 
+(its out is 2 much but it def switches, i like it) ❣️
+❗️
+

@@ -1,0 +1,29 @@
+# Articles from Wikipedia
+
+The history of artificial intelligence began in the 1950s with the 
+development of the first AI programs.
+AI has since become a rapidly growing field with many applications, 
+including robotics, computer vision, and natural language processing.
+
+In recent years, AI has been used to make decisions that affect 
+people's lives, such as determining creditworthiness or predicting 
+medical outcomes.
+The potential benefits of AI are significant, but so are the risks, and
+it is important to ensure that these systems are designed and used in a
+way that is fair and beneficial to all.
+
+# Research Papers
+
+In "Deep Learning", Yann LeCun et al. introduced the concept of 
+convolutional neural networks (CNNs) for image recognition.
+The paper demonstrated that CNNs could learn features from raw images 
+without human intervention, leading to state-of-the-art performance on 
+several image classification tasks.
+
+# News Articles
+
+AI has many potential applications in healthcare, such as diagnosing 
+diseases or developing personalized treatment plans.
+However, there are also concerns about AI's impact on jobs and the 
+economy, with some experts predicting widespread unemployment.
+
